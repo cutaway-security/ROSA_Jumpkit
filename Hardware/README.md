@@ -1,7 +1,10 @@
 # Hardware Assessment kit
 The Hardware Assessment Kit (KAT) stores tools and equipment to assist with hardware assessments. Tools for hardware assessments can get rather large and bulky, such as chip debuggers or multimeters. Thus the equipment will vary by the components involved with the assessment. Use project scoping time to understand the types of hardware interfaces and components (i.e. microcontrollers and memory) that will be evaluated. The following kits are a generic list to get people started.
 
-# HAK - Multimeter
+* [HAK - Multimeter](./README.md#hak-multimeter)
+* [HAK - Basic Hardware Component Interactions](./README.md#hak-basic)
+
+# [HAK - Multimeter](#hak-multimeter)
 The multimeter is a critical part of any assessment. This device provides the capability to interact with an embedded device's components. Typical actions include testing if the device is energized and tracing leads from component-to-component and debug-pins-to-components.
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
@@ -16,7 +19,7 @@ The multimeter is a critical part of any assessment. This device provides the ca
 
 ![HAK - Multimeter - Cutaway Security](../Images/rosa_HAK_multimeter_cutsec_v0.png)
 
-# HAK - Basic Hardware Component Interactions
+# [HAK - Basic Hardware Component Interactions](#hak-basic)
 This will list the basic equipment, wire, tools, and other things needed to help to conduct a hardware assessment.
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
