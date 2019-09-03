@@ -5,10 +5,12 @@ The Remote / Onsite Security Assessment (ROSA) Jumpkit is designed to help organ
 
 List of travel case types to help organize which equipment cases to pack for specific engagement types.
 
-* __Hardware Assessment Kit__ (HAK) - basic gear to conduct a hardware assessment or work with circuit boards and development kits.
-* __Wi-Fi Assessment Kit__ (WAK) - basic gear to conduct a wireless assessment of 802.11 networks.
-* __Radio Assessments Kit__ (RAK) - basic gear to conduct a radio assessment of 802.15.4 networks (i.e. ZigBee, Zwave, TI Framework), 900 MHz networks, specialized equipment communications, and proprietary networks.
-* __Network Assessments Kit__ (NAK) - basic gear to connect and capture data from a wired network.
+* [__Hardware Assessment Kit__](./Remote) (HAK) - basic gear to conduct a hardware assessment or work with circuit boards and development kits.
+* [__Wi-Fi Assessment Kit__](./Remote) (WAK) - basic gear to conduct a wireless assessment of 802.11 networks.
+* [__Radio Assessments Kit__](./Remote) (RAK) - basic gear to conduct a radio assessment of 802.15.4 networks (i.e. ZigBee, Zwave, TI Framework), 900 MHz networks, specialized equipment communications, and proprietary networks.
+* [__Network Assessments Kit__](./Remote) (NAK) - basic gear to connect and capture data from a wired network.
+* [__Physical Assessment Kit__](./Remote) (PAK) - basic gear to test physical entry (i.e. locks, card entry).
+* [__Remote Assessment Kit__](./Remote) (VAK) - basic gear to send to client to conduct a remote security assessment.
 
 ## Travel Cases
 
