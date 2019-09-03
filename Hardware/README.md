@@ -19,7 +19,7 @@ The multimeter is a critical part of any assessment. This device provides the ca
 
 ![HAK - Multimeter - Cutaway Security](../Images/rosa_HAK_multimeter_cutsec_v0.png)
 
-# HAK - Basic Hardware Component Interactions
+# HAK: Basic Hardware Component Interactions
 This will list the basic equipment, wire, tools, and other things needed to help to conduct a hardware assessment.
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
