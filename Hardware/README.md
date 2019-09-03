@@ -10,6 +10,9 @@ The multimeter is a critical part of any assessment. This device provides the ca
 | [Multimeter Electronic Test Lead Kit](https://www.amazon.com/Extech-TL809-Electronic-Test-Lead/dp/B0012VWUI6) | Extech | TL809 | Leads are the wires used with the multimeter | 1 | $17 | The normal posts are necessary and the alligator clips are extremely valuable to use with smaller bits of wire for probing. |
 | [Hook-up Wire Spool - Red](https://www.sparkfun.com/products/8865) | Sparkfun | PRT-08865 | Hook-up Wire | 1 | $3 | Red to use with red multimeter lead. Just put a small six to twelve inch piece in case with leads. Store spool with equipment or in another kit. |
 | [Hook-up Wire Spool - Black](https://www.sparkfun.com/products/8867) | Sparkfun | PRT-08867 | Hook-up Wire | 1 | $3 |  Black to use with black multimeter lead. Just put a small six to twelve inch piece in case with leads. Store spool with equipment or in another kit. |
+| [Voltage Tester](https://www.amazon.com/Circuit-Tester-110-460-Reinforced-Katzco/dp/B01EMAOCTS) | Katzco | 743841487806 | Katzco Circuit Tester- 110-460 Volts 4 Way Circuit Tester, Ideal for AC and CD- Multi Voltage Current Tester- Reinforced casing and Test Leads | 1 | $8 | For quickly testing outlets and other power sources. |
+
+\* Cost on 2019/08/01
 
 # Kit - Basic Hardware Component Interactions
 This will list the basic equipment, wire, tools, and other things needed to help to conduct a hardware assessment.
@@ -27,3 +30,4 @@ This will list the basic equipment, wire, tools, and other things needed to help
 | [Slant Tweesers](https://www.amazon.com/Slant-Tweezers-TweezerGuru-Professional-Stainless/dp/B016LI8E4S?th=1) | Tweeser Guru | tweesers | Tweesers for gripping medium-sized components. | 1 | $10 | Extremely helpful when soldering and removing components from curcuit boards. Fine-tip can be hard to work with on larger components.|
 | [Screwdriver Set](https://www.sparkfun.com/products/15003) | Sparkfun | PRT-15003 | Small bit screwdriver set | 1 | $7 | Smaller bits are helpful when working with embedded devices. The case may be too large for some cases. Breaking this down into a small bag can save space. |
 
+\* Cost on 2019/08/01
