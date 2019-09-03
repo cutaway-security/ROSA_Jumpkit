@@ -34,4 +34,4 @@ This will list the basic equipment, wire, tools, and other things needed to help
 
 \* Cost on 2019/08/01
 
-![HAK - Basic - Cutaway Security](../Images/rosa_HAK_multimeter_cutsec_v0.png)
+![HAK - Basic - Cutaway Security](../Images/rosa_HAK_basic_cutsec_v0.png)
