@@ -23,3 +23,4 @@ List of travel case types to help organize which equipment cases to pack for spe
 
 \* Cost on 2019/08/01
 
+![ROSA Jumpkit - Case - Cutaway Security](./Images/rosa_case_cutsec_v0.png)
