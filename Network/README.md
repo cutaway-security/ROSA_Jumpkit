@@ -3,6 +3,8 @@ The Network Assessment Kit (NAK) stores tools and equipment to assist with netwo
 
 * [NAK: Basic Network Assessment](./README.md#nak-basic-network-assessment)
 
+NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
+
 # NAK: Basic Network Assessment
 Sniffing is a basic requirement for network assessments. There are multiple tools and techniques. This basic kit is not intended include devices with injection functionality or to be hidden devices.
 

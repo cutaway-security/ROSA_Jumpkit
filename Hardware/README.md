@@ -4,6 +4,8 @@ The Hardware Assessment Kit (HAK) stores tools and equipment to assist with hard
 * [HAK: Multimeter](./README.md#hak-multimeter)
 * [HAK: Basic Hardware Assessments](./README.md#hak-basic-hardware-assessmentss)
 
+NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
+
 # HAK: Multimeter
 The multimeter is a critical part of any assessment. This device provides the capability to interact with an embedded device's components. Typical actions include testing if the device is energized and tracing leads from component-to-component and debug-pins-to-components.
 

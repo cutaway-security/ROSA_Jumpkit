@@ -1,6 +1,8 @@
 # ROSA_Jumpkit
 The Remote / Onsite Security Assessment (ROSA) Jumpkit is designed to help organize equipment loadouts by the type of security assessment. The cases have been selected to help protect each tool and organize them by functionality. These are merely recommendations as every person will have their personal tool and organization preferences.  
 
+NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
+
 ## Equipment Cases Types
 
 List of travel case types to help organize which equipment cases to pack for specific engagement types.
