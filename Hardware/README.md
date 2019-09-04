@@ -31,7 +31,7 @@ NOTE: I am currently using an old Saleae case for this equipment. This equipment
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
 | [Saleae Logic 8 Logical Analyzer](https://www.saleae.com) | Saleae | Logic8 | Logic analyzer to understand data in motion. | 1 | $400 | There are cheaper logic analyzers on the market. However, Saleae provides excellent customer support. The devices can handle up-to +/- 25 Volts and the warrenty may help you if you short the device. |
-| [Goodfet42](http://goodfet.sourceforge.net/hardware/goodfet42/) | Goodfet | 42 | Multi-purpose open source debugger. | 2 | $100 | You can assemble upto four (4) boards yourself for less than $100. It is a great exercise and makes you a Good Neighbor. You can also order [GoodFETT v42 by Travis Goodspeed](https://www.adafruit.com/product/1279) from AdaFruit. |
+| [Goodfet42](http://goodfet.sourceforge.net/hardware/goodfet42/) | Goodfet | 42 | Multi-purpose open source debugger. | 2 | $50 | You can assemble upto four (4) boards yourself for less than $100. It is a great exercise and makes you a Good Neighbor. You can also order [GoodFETT v42 by Travis Goodspeed](https://www.adafruit.com/product/1279) from AdaFruit. |
 | [FTDI Serial TTL-232 USB Cable](https://www.adafruit.com/product/70) | Adafruit | 70 | Serial-to-USB cable | 1 | $18 | Interact with serial devices via USB serial / comm port.  |
 | [7" Male to Male Jumper Wires - 30 Count](https://www.sparkfun.com/products/11026) | Sparkfun | PRT-11026 | Jumper wires for various needs | 1 | $3 | N/A |
 | [6" Male to Female Jumper Wires - 10 Count](https://www.sparkfun.com/products/9140) | Sparkfun | PRT-9140 | Jumper wires for various needs | 1 | $4 |  N/A |
