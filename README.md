@@ -20,6 +20,7 @@ List of travel case types to help organize which equipment cases to pack for spe
 * [__Network Assessments Kit__](./Network/README.md) (NAK) - gear to connect and capture data from a wired network.
 * [__Physical Assessment Kit__](./Physical/README.md) (PAK) - gear to test physical entry (i.e. locks, card entry).
 * [__Remote Assessment Kit__](./Remote/README.md) (VAK) - gear to send to client to conduct a remote security assessment.
+* [__Forensic Assessment Kit__](./Forensic/README.md) (FAK) - gear needed to acquire information from hard drives and storage media.
 
 ## Travel Cases
 
