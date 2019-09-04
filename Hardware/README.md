@@ -2,7 +2,7 @@
 The Hardware Assessment Kit (HAK) stores tools and equipment to assist with hardware assessments. Tools for hardware assessments can get rather large and bulky, such as chip debuggers or multimeters. Thus the equipment will vary by the components involved with the assessment. Use project scoping time to understand the types of hardware interfaces and components (i.e. microcontrollers and memory) that will be evaluated. The following kits are a generic list to get people started.
 
 * [HAK: Multimeter](./README.md#hak-multimeter)
-* [HAK: Basic Hardware Assessments](./README.md#hak-basic-hardware-assessmentss)
+* [HAK: Basic Hardware Assessments](./README.md#hak-basic-hardware-assessments)
 
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
 

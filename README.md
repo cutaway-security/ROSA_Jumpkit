@@ -1,7 +1,14 @@
 # ROSA_Jumpkit
 The Remote / Onsite Security Assessment (ROSA) Jumpkit is designed to help organize equipment loadouts by the type of security assessment. The cases have been selected to help protect each tool and organize them by functionality. These are merely recommendations as every person will have their personal tool and organization preferences.  
 
+* [Community Cases](./README.md#community-cases)
+* [Equipment Cases Types](./README.md#equipment-cases-types)
+* [Travel Cases](./README.md#travel-cases)
+
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
+
+## Community Cases
+Jumpkits are extremely personal and vary by the professional's experiences and expertise. New and experienced professionals are always looking for equipment that balances portability, functionality, effectiveness, and cost. The ROSA Jumpkit project is accepting Community Case submissions using the Issue tracking function of this repo. Please note the requirement to fit all equipment into a [AmazonBasic Protective Case](https://www.amazon.com/gp/product/B0748141LD/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
 
 ## Equipment Cases Types
 
@@ -26,3 +33,4 @@ List of travel case types to help organize which equipment cases to pack for spe
 \* Cost on 2019/08/01
 
 ![ROSA Jumpkit - Case - Cutaway Security](./Images/rosa_case_cutsec_v0.png)
+
