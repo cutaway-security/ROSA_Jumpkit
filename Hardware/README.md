@@ -9,6 +9,8 @@ NOTE: Equipment changes over time. It is natural that that some of the equipment
 # HAK: Multimeter
 The multimeter is a critical part of any assessment. This device provides the capability to interact with an embedded device's components. Typical actions include testing if the device is energized and tracing leads from component-to-component and debug-pins-to-components.
 
+NOTE: This multimeter does not fit into an AmazonBasic Protective Case. I improvised with a case I pick up during travel that fit it very well.
+
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
 | [Extech EX330 Multimeter](http://www.extech.com/display/?id=14823) | Extech | EX330 | Multimeter to understand voltages, connectivity, and tone-out leads. | 1 | $51 | This is typically not optional. May or may not come with lead wires. |
@@ -23,6 +25,8 @@ The multimeter is a critical part of any assessment. This device provides the ca
 
 # HAK: Basic Hardware Assessments
 This will list the basic equipment, wire, tools, and other things needed to help to conduct a hardware assessment.
+
+NOTE: I am currently using an old Saleae case for this equipment. This equipment will fit AmazonBasic Protective Case with room for additional equipment. 
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |

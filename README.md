@@ -5,7 +5,7 @@ NOTE: Equipment changes over time. It is natural that that some of the equipment
 
 ## Equipment Cases Types
 
-List of travel case types to help organize which equipment cases to pack for specific engagement types.
+List of travel case types to help organize which equipment cases to pack for specific engagement types. All kits are designed to fit (sometimes snuggly) into an [AmazonBasic Protective Case](https://www.amazon.com/gp/product/B0748141LD/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1) unless noted.
 
 * [__Hardware Assessment Kit__](./Hardware/README.md) (HAK) - basic gear to conduct a hardware assessment or work with circuit boards and development kits.
 * [__Wi-Fi Assessment Kit__](./Wi-Fi/README.md) (WAK) - basic gear to conduct a wireless assessment of 802.11 networks.
