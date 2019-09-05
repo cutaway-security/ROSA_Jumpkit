@@ -39,5 +39,6 @@ List of travel case types to help organize which equipment cases to pack for spe
 ## Acknowledgements
 
 * [John Sawyer](https://twitter.com/johnhsawyer) - encouraged me to write this down, I just took it too far....
-* [Jason Larser](https://www.linkedin.com/in/jason-larsen-95098465/) - inspired by his gear
-* [Dave Maynor](https://twitter.com/Dave_Maynor) - wanted to compare assessment kits
+* [Jason Larser](https://www.linkedin.com/in/jason-larsen-95098465/) - inspired by his gear.
+* [Dave Maynor](https://twitter.com/Dave_Maynor) - wanted to compare assessment kits.
+* [Larry Pesce](https://twitter.com/haxorthematrix) - cause I bug him about everything, and he helps.

@@ -1,11 +1,12 @@
 # Wi-Fi Assessment Kit
 The Wi-Fi Assessment Kit (WAK) stores tools and equipment to assist with assessments of 802.11-based networks. Tools for Wi-Fi assessments can get rather large and bulky, such as network adapters and access points. Thus the equipment will vary by the components involved with the assessment. Use project scoping time to understand the types of [802.11 networks](https://en.wikipedia.org/wiki/IEEE_802.11) (i.e. AC, N, G) that will be evaluated. The following kits are a generic list to get people started.
 
-* [NAK: Basic Network Assessment](./README.md#wak-basic-network-assessment)
+* [WAK: Basic Wi-Fi Assessment](./README.md#wak-basic-wi-fi-assessment)
+  * [WAK: Basic Wi-Fi Future Upgrades / Wishlist](./README.md#wak-basic-wi-fi-future-upgrades-wishlist)
 
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
 
-# WAK: Basic Network Assessment
+# WAK: Basic Wi-Fi Assessment
 Sniffing, injection, and spoofing are a basic requirement for Wi-Fi assessments. There are multiple tools and techniques. This basic kit is not intended include devices with advanced capabilities or to be hidden devices. 
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
@@ -20,3 +21,6 @@ Sniffing, injection, and spoofing are a basic requirement for Wi-Fi assessments.
 \* Cost on 2019/08/01
 
 ![WAK - Basic Wi-Fi - Cutaway Security](../Images/rosa_WAK_basic_cutsec_v0.png)
+
+## WAK: Basic WiFi Future Upgrades / Wishlist
+* [Wi-Fi Adapter](https://www.alfa.net.my/products/Alfa-AWUS1900-802.11ac-1900-Mbps-Dual-band-USB-Wifi-Adapter/69)
