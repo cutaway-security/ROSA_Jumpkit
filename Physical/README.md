@@ -15,7 +15,7 @@ NOTE: Equipment changes over time. It is natural that that some of the equipment
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
 | [General Locks Picks](https://redteamtools.com/lock-picks-manipulation/twelve-piece-lock-pick-set) | Red Team Tools | 12PCPICKSET | Twelve Piece Pick Set | 1 | $30 | My kit was pulled together over the years. There are a few more than the Red Team Tools set. |
 
-![PAK - Basic - Cutaway Security](../Images/rosa_HAK_basic_cutsec_v0.png)
+![PAK - Basic - Cutaway Security](../Images/rosa_PAK_basic_cutsec_v0.png)
 
 ## PAK: Basic Physical Future Upgrades Wishlist
 
