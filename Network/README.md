@@ -1,4 +1,5 @@
 # Network Assessment Kit
+
 The Network Assessment Kit (NAK) stores tools and equipment to assist with network assessments. Tools for network assessments can get rather large and bulky, such as switches and packet capturing devices. Thus the equipment will vary by the components involved with the assessment. Use project scoping time to understand the types of network medium (i.e. copper, fiber) and network speed (i.e. 1 Gigabit per second, 10 Gigabit per second) that will be evaluated. The following kits are a generic list to get people started.
 
 * [NAK: Basic Network Assessment](./README.md#nak-basic-network-assessment)
@@ -6,6 +7,7 @@ The Network Assessment Kit (NAK) stores tools and equipment to assist with netwo
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
 
 # NAK: Basic Network Assessment
+
 Sniffing is a basic requirement for network assessments. There are multiple tools and techniques. This basic kit is not intended include devices with injection functionality or to be hidden devices.
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |

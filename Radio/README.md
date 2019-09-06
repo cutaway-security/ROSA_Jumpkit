@@ -1,4 +1,5 @@
 # Radio Assessment Kit
+
 The Radio Assessment Kit (RAK) stores tools and equipment to assist with radio and wireless network assessments. Radio assessments can involve a gambit of implementations. The tools required need to help locate radio transmissions, identify implementation, capture transmissions, and support interaction with the wireless network. The following kits are a generic list to get people started.
 
 * [RAK: Basic Radio Assessment](./README.md#rak-basic-radio-assessment)
@@ -9,7 +10,6 @@ The Radio Assessment Kit (RAK) stores tools and equipment to assist with radio a
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
 
 # RAK: Basic Radio Assessment
-This kit is currently under construction.
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -23,10 +23,10 @@ This kit is currently under construction.
 ![RAK - Radios - Cutaway Security](../Images/rosa_RAK_basic_cutsec_v0.png)
 
 ## RAK: Basic Radio Future Upgrades Wishlist
+
 * [RTL-SDR Blog R820T2 RTL2832U](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2) - this version of the RTL-SDR is a more up-to-date version and has better shielding. We use this in the [ControlThings.io Accessing and Exploiting Control Systems](https://www.controlthings.io/training) class.
 
 # RAK: 802.15.4 Bluetooth Radio Assessment
-This kit is currently under construction.
 
 | Equipment | Vendor | Model | Description | Quantity | Cost* | Note |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -47,4 +47,5 @@ This kit is currently under construction.
 ![RAK - Various Dongles - Cutaway Security](../Images/rosa_RAK_802.15.4_cutsec_v0.png)
 
 ## RAK: 802.15.4 Bluetooth Radio Future Upgrades Wishlist
+
 * [Parani-UD100 Bluetooth 4.0 Class1 USB Adapter](http://www.senanetworks.com/ud100-g03.html?sc=14&category=3968) - to augment the [Ubertooth One](https://greatscottgadgets.com/ubertoothone/) for research, testing, and interactions with Bluetooth and BTLE.

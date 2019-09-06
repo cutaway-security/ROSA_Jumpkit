@@ -1,4 +1,5 @@
 # Hardware Assessment Kit
+
 The Hardware Assessment Kit (HAK) stores tools and equipment to assist with hardware assessments. Tools for hardware assessments can get rather large and bulky, such as chip debuggers or multimeters. Thus the equipment will vary by the components involved with the assessment. Use project scoping time to understand the types of hardware interfaces and components (i.e. microcontrollers and memory) that will be evaluated. The following kits are a generic list to get people started.
 
 * [HAK: Multimeter](./README.md#hak-multimeter)
@@ -7,6 +8,7 @@ The Hardware Assessment Kit (HAK) stores tools and equipment to assist with hard
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
 
 # HAK: Multimeter
+
 The multimeter is a critical part of any assessment. This device provides the capability to interact with an embedded device's components. Typical actions include testing if the device is energized and tracing leads from component-to-component and debug-pins-to-components.
 
 NOTE: This multimeter does not fit into an AmazonBasic Protective Case. I improvised with a case I pick up during travel that fit it very well.
@@ -24,6 +26,7 @@ NOTE: This multimeter does not fit into an AmazonBasic Protective Case. I improv
 ![HAK - Multimeter - Cutaway Security](../Images/rosa_HAK_multimeter_cutsec_v0.png)
 
 # HAK: Basic Hardware Assessments
+
 This will list the basic equipment, wire, tools, and other things needed to help to conduct a hardware assessment.
 
 NOTE: I am currently using an old Saleae case for this equipment. This equipment will fit AmazonBasic Protective Case with room for additional equipment. 
