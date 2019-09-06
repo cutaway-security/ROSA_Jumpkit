@@ -3,8 +3,8 @@ The Radio Assessment Kit (RAK) stores tools and equipment to assist with radio a
 
 * [RAK: Basic Radio Assessment](./README.md#rak-basic-radio-assessment)
   * [RAK: Basic Radio Future Upgrades Wishlist](./README.md#rak-basic-radio-future-upgrades-wishlist)
-* [RAK: 802.15.4 Bluetooth Radio Assessment](./README.md#rak-802.15.4-bluetooth-radio-assessment)
-  * [RAK: 802.15.4 Bluetooth Future Upgrades Wishlist](./README.md#rak-802.15.4-bluetooth-radio-future-upgrades-wishlist)
+* [RAK: 802.15.4 Bluetooth Radio Assessment](./README.md#rak-802.15.4-bluetooth-radio-assessment) <- Link is broken, please scroll down.
+  * [RAK: 802.15.4 Bluetooth Future Upgrades Wishlist](./README.md#rak-802.15.4-bluetooth-radio-future-upgrades-wishlist) <- Link is broken, please scroll down.
 
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
 
