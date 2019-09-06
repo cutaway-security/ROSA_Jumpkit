@@ -16,7 +16,7 @@ NOTE: Equipment changes over time. It is natural that that some of the equipment
 
 \* Cost on 2019/08/01
 
-![FAK - Forensic - Cutaway Security](../Images/rosa_FAK_basicr_cutsec_v0.png)
+![FAK - Forensic - Cutaway Security](../Images/rosa_FAK_basic_cutsec_v0.png)
 
 ## FAK: Basic Forensics Future Upgrades Wishlist
 
