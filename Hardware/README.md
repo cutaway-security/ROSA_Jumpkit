@@ -47,3 +47,7 @@ NOTE: I am currently using an old Saleae case for this equipment. This equipment
 \* Cost on 2019/08/01
 
 ![HAK - Basic - Cutaway Security](../Images/rosa_HAK_basic_cutsec_v0.png)
+
+## HAK: Basic Hardware Future Upgrades Wishlist
+
+* [Saleae Logic 8](https://www.saleae.com/) - Digital/Analog Inputs 8 and Digital Sample Rate 100 MHz max - $400

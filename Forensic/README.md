@@ -20,4 +20,4 @@ NOTE: Equipment changes over time. It is natural that that some of the equipment
 
 ## FAK: Basic Forensics Future Upgrades Wishlist
 
-* [FIDECO USB 3.0 to SATA Adapter Hard Drvie Converter IDE Cable](https://www.amazon.com/dp/B077N2KK27/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B077N2KK27) - USB 3 to 3.5 and 2.5 IDE or Serial ATA Drive  __NOT A WRITE BLOCKER__
+* [FIDECO USB 3.0 to SATA Adapter Hard Drvie Converter IDE Cable](https://www.amazon.com/dp/B077N2KK27/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B077N2KK27) - USB 3 to 3.5 and 2.5 IDE or Serial ATA Drive  __NOT A WRITE BLOCKER__ - $25
