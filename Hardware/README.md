@@ -50,4 +50,10 @@ NOTE: I am currently using an old Saleae case for this equipment. This equipment
 
 ## HAK: Basic Hardware Future Upgrades Wishlist
 
+* [GreatFET One](https://greatscottgadgets.com/greatfet/one/) - Next Generation of GoodFETs - $89
+* [Acrylic Case for GreatFET](https://greatscottgadgets.com/greatfet/acrylic-case/) - GreatFET needs a case - $???
+* [Solderless Breadboard Neighbor for GreatFET](https://greatscottgadgets.com/greatfet/solderless-breadboard/) - GreatFET needs to be connected to things - $???
 * [Saleae Logic 8](https://www.saleae.com/) - Digital/Analog Inputs 8 and Digital Sample Rate 100 MHz max - $400
+* [Segger JLink Debugger](https://www.amazon.com/Segger-J-Link-EDU-JTAG-Debugger/dp/B017U578UW) - Debugger for microcontrollers: Cortex-M0 Cortex-M3 Cortex-M4 Cortex-M7 Cortex-A9 Cortex-R4 ARM9 ARM7 MIPS PIC32 and more - $80
+* [Atmel JTAGICE mkII](https://www.amazon.com/Compatible-ATJTAGICE2-Programmer-debugWIRE-Interface/dp/B00C7VE600/ref=sr_1_9?keywords=ice+debugger&qid=1567813023&s=gateway&sr=8-9) - Atmel flasher and debugger - $150
+* [TI CC Debugger](http://www.ti.com/tool/CC-DEBUGGER) - flasher and debugger for ChipCon chips - $50
