@@ -23,4 +23,4 @@ Sniffing, injection, and spoofing are a basic requirement for Wi-Fi assessments.
 ![WAK - Basic Wi-Fi - Cutaway Security](../Images/rosa_WAK_basic_cutsec_v0.png)
 
 ## WAK: Basic Wi-Fi Future Upgrades / Wishlist
-* [Wi-Fi Adapter](https://www.alfa.net.my/products/Alfa-AWUS1900-802.11ac-1900-Mbps-Dual-band-USB-Wifi-Adapter/69)
+* [Wi-Fi Adapter: Alfa AWUS1900](https://www.alfa.net.my/products/Alfa-AWUS1900-802.11ac-1900-Mbps-Dual-band-USB-Wifi-Adapter/69) - required update as my current Wi-Fi adapters do not support MU-MIMO, 802.11ac, and 802.11ax.

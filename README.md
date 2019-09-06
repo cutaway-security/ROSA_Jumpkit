@@ -9,7 +9,9 @@ The Remote / Onsite Security Assessment (ROSA) Jumpkit is designed to help organ
 NOTE: Equipment changes over time. It is natural that that some of the equipment listed in these kits will be dated and, possibly, discontinued. Equipment is useful until new functionality is required or something more consistent is identified. All kits should be viewed as good starting points.
 
 ## Community Jumpkits
-Jumpkits are extremely personal and vary by the professional's experiences and expertise. New and experienced professionals are always looking for equipment that balances portability, functionality, effectiveness, and cost. The ROSA Jumpkit project is accepting Community Jumpkit submissions using the [Issue Tracking](https://github.com/cutaway-security/ROSA_Jumpkit/issues) function of this repo. Please note the requirement to fit all equipment into an [AmazonBasic Protective Case](https://www.amazon.com/gp/product/B0748141LD/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
+Jumpkits are extremely personal and vary by the professional's experiences and expertise. New and experienced professionals are always looking for equipment that balances portability, functionality, effectiveness, and cost. The ROSA Jumpkit project is accepting Community Jumpkit submissions using the [Issue Tracking](https://github.com/cutaway-security/ROSA_Jumpkit/issues) function or [Git Pull requests](https://github.com/cutaway-security/ROSA_Jumpkit/pulls) of this repo. Please do your leg work to get all of the associated reference information. 
+
+Jumpkits can be any case with the intent to protect the equipment and make it easily accessible during travel. If you are not using the [AmazonBasic Protective Case](https://www.amazon.com/gp/product/B0748141LD/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1), please provide a reference to the case used for your jumpkit.
 
 ## Equipment Cases Types
 
