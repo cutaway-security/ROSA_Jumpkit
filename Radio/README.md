@@ -22,7 +22,7 @@ This kit is currently under construction.
 
 ![RAK - Radios - Cutaway Security](../Images/rosa_RAK_basic_cutsec_v0.png)
 
-## RAK: Basic Radio Future Upgrades - Wishlist
+## RAK: Basic Radio Future Upgrades Wishlist
 * [RTL-SDR Blog R820T2 RTL2832U](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2) - this version of the RTL-SDR is a more up-to-date version and has better shielding. We use this in the [ControlThings.io Accessing and Exploiting Control Systems](https://www.controlthings.io/training) class.
 
 # RAK: 802.15.4 / Bluetooth Radio Assessment
@@ -46,5 +46,5 @@ This kit is currently under construction.
 
 ![RAK - Various Dongles - Cutaway Security](../Images/rosa_RAK_802.15.4_cutsec_v0.png)
 
-## RAK: 802.15.4 / Bluetooth Radio Future Upgrades - Wishlist
+## RAK: 802.15.4 Bluetooth Radio Future Upgrades Wishlist
 * [Parani-UD100 Bluetooth 4.0 Class1 USB Adapter](http://www.senanetworks.com/ud100-g03.html?sc=14&category=3968) - to augment the [Ubertooth One](https://greatscottgadgets.com/ubertoothone/) for research, testing, and interactions with Bluetooth and BTLE.
